@@ -1,0 +1,35 @@
+**/Output/
+*.zip
+*.o
+*.out
+*.exe
+
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.vscode/
+.idea/
+
+.DS_Store
+
+# Generated documentation
+**/Documentation/html/
+**/Documentation/latex/
+**/html/
+**/latex/
+
+# Compiled executables
+*.o
+*.out
+*.exe
+
+# Generated output
+**/Output/
+
+# Archives
+*.zip
+

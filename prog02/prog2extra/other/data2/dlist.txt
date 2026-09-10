@@ -1,0 +1,4 @@
+3
+data2/d1.dat
+data2/d2.dat
+data2/d3.dat

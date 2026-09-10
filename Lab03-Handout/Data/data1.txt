@@ -1,0 +1,5 @@
+4
+adjectives1 6 happy sad moody grumpy cheerful joyful
+verbs1 4 eat chew digest dine
+verbs2 5 run walk stroll jump hop
+nouns1 4 street road alley avenue

@@ -1,0 +1,15 @@
+shows the difference of best fit and worst fit
+
+Allocate 850:
+First-fit: picks the first hole (900) andleaves 50
+remaining hole 800.
+best-fit: also picks 900
+same remainder 50.
+
+Allocate 650:
+first-fit: now the first suitable hole is 800 and leaves 150 (nice medium hole).
+Best-fit: also chooses 800 (only option) and leaves 150.
+
+Allocate 700:
+First-fit: fails, it won’t fit into 150.
+Best-fit: also fails.

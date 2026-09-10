@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mayageva/Desktop/CSC412/Lab02-Handout/task1'
+relocations:     []
+...

@@ -1,0 +1,2 @@
+this set is made so you can see the leaf remainders (50, 50, 600) 
+and confirm splitting is correct in both modes. 

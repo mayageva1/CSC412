@@ -1,0 +1,5 @@
+4
+adjectives3 5 mean nasty grumpy angry abusive
+badThings 3 hatred Facebook Google
+nouns1 4  highway stroad alley passageway
+nouns3 6  dog cat rabbit hamster parrot canari

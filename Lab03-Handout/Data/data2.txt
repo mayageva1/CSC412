@@ -1,0 +1,4 @@
+3
+adjectives2 4 tall short long wide
+verbs1 3  devour digest swallow
+nouns1 2  boulevard lane
